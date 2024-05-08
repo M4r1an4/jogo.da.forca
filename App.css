@@ -1,0 +1,46 @@
+
+
+
+
+
+.forca{
+    text-align: center;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+h1{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.letras{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+button{
+    margin: 5px;
+    padding: 20px;
+    background: rgb(216, 148, 176);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: rgb(60, 202, 124);
+}
+
+div.palavra{
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+div.letras-selecionadas{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
